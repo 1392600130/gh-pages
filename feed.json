@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "小新站",
+    "description": "",
+    "home_page_url": "https://1392600130.github.io/gh-pages",
+    "feed_url": "https://1392600130.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Cheney"
+    },
+    "items": [
+        {
+            "id": "https://1392600130.github.io/gh-pages/test.html",
+            "url": "https://1392600130.github.io/gh-pages/test.html",
+            "title": "Test",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Cheney"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-05T19:22:08+08:00",
+            "date_modified": "2022-10-05T19:22:08+08:00"
+        }
+    ]
+}

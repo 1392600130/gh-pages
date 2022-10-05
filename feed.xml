@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>小新站</title>
+    <link href="https://1392600130.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://1392600130.github.io/gh-pages" />
+    <updated>2022-10-05T19:22:08+08:00</updated>
+    <author>
+        <name>Cheney</name>
+    </author>
+    <id>https://1392600130.github.io/gh-pages</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Cheney</name>
+        </author>
+        <link href="https://1392600130.github.io/gh-pages/test.html"/>
+        <id>https://1392600130.github.io/gh-pages/test.html</id>
+
+        <updated>2022-10-05T19:22:08+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
